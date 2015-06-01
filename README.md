@@ -11,6 +11,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/1
 - [MonthOfCommits repo created](https://github.com/mtvillwock/MonthOfCommits)
 - [Angry Professor problem](https://github.com/mtvillwock/algorithms-practice/commit/d74686a477771316917aae05660cfd35844eecdb)
+- [Fix article ordering](https://github.com/mtvillwock/rails-blog/commit/9b4657adab1285a1619575d400b49fd43721be59)
 
 ## List of Potential Tasks
 
@@ -21,7 +22,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - personal site add skill images
 - personal site separate project pages from home/landing page
 - personal site fixed nav bar and JS effects
-- personal site order blog articles by created at scope
+- ~~personal site order blog articles by created at scope~~
 - Maps with Friends omniauth / OAuth user creation
 - Planet Hopper flight API calls
 - JHO front-end rewrite in Backbone
