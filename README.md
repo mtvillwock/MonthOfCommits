@@ -10,6 +10,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/1
 - [MonthOfCommits repo created](https://github.com/mtvillwock/MonthOfCommits)
+- [Angry Professor problem](https://github.com/mtvillwock/algorithms-practice/commit/d74686a477771316917aae05660cfd35844eecdb)
 
 ## List of Potential Tasks
 
