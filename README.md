@@ -21,6 +21,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - personal site add skill images
 - personal site separate project pages from home/landing page
 - personal site fixed nav bar and JS effects
+- personal site order blog articles by created at scope
 - Maps with Friends omniauth / OAuth user creation
 - Planet Hopper flight API calls
 - JHO front-end rewrite in Backbone
