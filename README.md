@@ -15,7 +15,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 ## List of Potential Tasks
 
-- algorithm practice problems (HackerRank, LeetCode, Whiteboard Wednesday, Cracking the Coding Interview)
+- algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
 - Planet Hopper autocomplete form
 - Planet Hopper incremental form display
 - personal site color/font changes
