@@ -10,8 +10,12 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/1
 - [MonthOfCommits repo created](https://github.com/mtvillwock/MonthOfCommits)
-- [Angry Professor problem](https://github.com/mtvillwock/algorithms-practice/commit/d74686a477771316917aae05660cfd35844eecdb)
+- [Angry Professor HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/d74686a477771316917aae05660cfd35844eecdb)
 - [Fix article ordering](https://github.com/mtvillwock/rails-blog/commit/9b4657adab1285a1619575d400b49fd43721be59)
+
+6/2
+- [Halloween Party | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/3ea4eabefb61174e8395b8676d0bffe0645f1560)
+
 
 ## List of Potential Tasks
 
