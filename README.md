@@ -22,6 +22,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/4
 - [Solve Find Digits | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/60c899b2cb68cf62abb257d3fa92058e525ddfb2)
+- [Add Project resource and partials](https://github.com/mtvillwock/rails-blog/commit/57cf4445497b2d5f35c402d5edfec01b1d8192ee)
 
 
 ## List of Potential Tasks
