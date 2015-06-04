@@ -17,6 +17,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - [Halloween Party | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/3ea4eabefb61174e8395b8676d0bffe0645f1560)
 - [AJAX Example repo](https://github.com/mtvillwock/ajax-example/commit/e158ca5ad0620a398ba6b5d5da66e5961ee391b2) - Initiated repo, built out the five branches.
 
+6/3
+- [Find Digits | HackRank](https://github.com/mtvillwock/algorithms-practice/commit/6bec18ac7c6d2f55a2b19ba202d5cf270066191b)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
