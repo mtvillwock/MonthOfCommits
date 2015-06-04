@@ -18,7 +18,11 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - [AJAX Example repo](https://github.com/mtvillwock/ajax-example/commit/e158ca5ad0620a398ba6b5d5da66e5961ee391b2) - Initiated repo, built out the five branches.
 
 6/3
-- [Find Digits | HackRank](https://github.com/mtvillwock/algorithms-practice/commit/6bec18ac7c6d2f55a2b19ba202d5cf270066191b)
+- [start Find Digits | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/6bec18ac7c6d2f55a2b19ba202d5cf270066191b)
+
+6/4
+- [Solve Find Digits | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/60c899b2cb68cf62abb257d3fa92058e525ddfb2)
+
 
 ## List of Potential Tasks
 
