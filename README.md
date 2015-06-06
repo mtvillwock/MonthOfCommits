@@ -24,6 +24,8 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - [Solve Find Digits | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/60c899b2cb68cf62abb257d3fa92058e525ddfb2)
 - [Add Project resource and partials](https://github.com/mtvillwock/rails-blog/commit/57cf4445497b2d5f35c402d5edfec01b1d8192ee)
 
+6/5
+- [Start Chocolate Feast, pass half of test cases | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/88ff9dbc8ec8552dc739d86b36938dbedc023173)
 
 ## List of Potential Tasks
 
