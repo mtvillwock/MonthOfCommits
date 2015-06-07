@@ -11,7 +11,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/1
 - [MonthOfCommits repo created](https://github.com/mtvillwock/MonthOfCommits)
 - [Angry Professor | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/d74686a477771316917aae05660cfd35844eecdb)
-- [Fix article ordering](https://github.com/mtvillwock/rails-blog/commit/9b4657adab1285a1619575d400b49fd43721be59)
+- [Fix article ordering | Personal Site](https://github.com/mtvillwock/rails-blog/commit/9b4657adab1285a1619575d400b49fd43721be59)
 
 6/2
 - [Halloween Party | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/3ea4eabefb61174e8395b8676d0bffe0645f1560)
@@ -22,10 +22,16 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/4
 - [Solve Find Digits | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/60c899b2cb68cf62abb257d3fa92058e525ddfb2)
-- [Add Project resource and partials](https://github.com/mtvillwock/rails-blog/commit/57cf4445497b2d5f35c402d5edfec01b1d8192ee)
+- [Add Project resource and partials | Personal Site](https://github.com/mtvillwock/rails-blog/commit/57cf4445497b2d5f35c402d5edfec01b1d8192ee)
 
 6/5
 - [Start Chocolate Feast, pass half of test cases | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/88ff9dbc8ec8552dc739d86b36938dbedc023173)
+
+6/6
+- [Remove unnecessary views | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/6960ab3fd777747faac792576a9ab6ff4ed6faaa)
+
+6/7
+- [Merge pull request | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/f9aedd3bde2f5673d46fccac676463a9ced40004)
 
 ## List of Potential Tasks
 
