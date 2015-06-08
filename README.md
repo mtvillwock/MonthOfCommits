@@ -33,6 +33,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/7
 - [Merge pull request | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/f9aedd3bde2f5673d46fccac676463a9ced40004)
 
+6/8
+- [Solve Chocolate Feast | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/27fd58200ca972929a1d8a8923a586eb1bed17eb)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
