@@ -35,6 +35,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/8
 - [Solve Chocolate Feast | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/27fd58200ca972929a1d8a8923a586eb1bed17eb)
+- [Basic User Auth | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/b0a8aabdbac88e7beb098df74059b23b0ceef8ed)
 
 ## List of Potential Tasks
 
