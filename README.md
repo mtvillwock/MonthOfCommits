@@ -39,6 +39,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/9
 - [Start Sherlock Array problem | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/bd4e65ebb665ddb0f5dc73fba4de3adeacc3ba57)
+- [Add basic attribute validations for trip model](https://github.com/mtvillwock/planet-hopper/commit/13019cd4265db7a956bbdf29ae12b44bf5803ffd)
 
 ## List of Potential Tasks
 
