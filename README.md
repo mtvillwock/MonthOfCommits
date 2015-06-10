@@ -37,6 +37,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - [Solve Chocolate Feast | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/27fd58200ca972929a1d8a8923a586eb1bed17eb)
 - [Basic User Auth | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/b0a8aabdbac88e7beb098df74059b23b0ceef8ed)
 
+6/9
+- [Start Sherlock Array problem | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/bd4e65ebb665ddb0f5dc73fba4de3adeacc3ba57)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
