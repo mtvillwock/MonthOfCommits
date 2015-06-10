@@ -39,14 +39,17 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/9
 - [Start Sherlock Array problem | HackerRank](https://github.com/mtvillwock/algorithms-practice/commit/bd4e65ebb665ddb0f5dc73fba4de3adeacc3ba57)
-- [Add basic attribute validations for trip model](https://github.com/mtvillwock/planet-hopper/commit/13019cd4265db7a956bbdf29ae12b44bf5803ffd)
+- [Add basic attribute validations for trip model | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/13019cd4265db7a956bbdf29ae12b44bf5803ffd)
+
+6/10
+- [Add schema txt and image after revisions | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/02bc768760c910a7e1ca0642339ff5c621293a95)
 
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
 - [Tabbie](https://github.com/jariz/tabbie) - [How to Contribute](https://github.com/jariz/tabbie/blob/master/CONTRIBUTING.md)
-- Planet Hopper autocomplete form
-- Planet Hopper incremental form display
+- ~~Planet Hopper autocomplete form~~
+- ~~Planet Hopper incremental form display~~
 - personal site color/font changes
 - personal site add skill images
 - personal site separate project pages from home/landing page
