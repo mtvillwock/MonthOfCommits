@@ -45,6 +45,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - [Add schema text and image after revisions | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/02bc768760c910a7e1ca0642339ff5c621293a95)
 - [initial binary search iterative solution](https://github.com/mtvillwock/algorithms-practice/commit/d114032f6e94a507f3ec2c674a02335a446c5b06)
 
+6/11
+- [Revise user login and trip flow/views | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/d3a11bec87738ed964652a5928c4b1527f23d9a6)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
