@@ -42,7 +42,8 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - [Add basic attribute validations for trip model | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/13019cd4265db7a956bbdf29ae12b44bf5803ffd)
 
 6/10
-- [Add schema txt and image after revisions | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/02bc768760c910a7e1ca0642339ff5c621293a95)
+- [Add schema text and image after revisions | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/02bc768760c910a7e1ca0642339ff5c621293a95)
+- [initial binary search iterative solution](https://github.com/mtvillwock/algorithms-practice/commit/d114032f6e94a507f3ec2c674a02335a446c5b06)
 
 ## List of Potential Tasks
 
