@@ -48,6 +48,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/11
 - [Revise user login and trip flow/views | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/d3a11bec87738ed964652a5928c4b1527f23d9a6)
 
+6/12
+- [Preliminary User model spec tests](https://github.com/mtvillwock/planet-hopper/commit/c6e79988e7a0801dc63316b66fef1121b6506271)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
