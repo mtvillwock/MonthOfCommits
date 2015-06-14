@@ -49,7 +49,10 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - [Revise user login and trip flow/views | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/d3a11bec87738ed964652a5928c4b1527f23d9a6)
 
 6/12
-- [Preliminary User model spec tests](https://github.com/mtvillwock/planet-hopper/commit/c6e79988e7a0801dc63316b66fef1121b6506271)
+- [Preliminary User model spec tests | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/c6e79988e7a0801dc63316b66fef1121b6506271)
+
+6/13
+- [attempting controller testing for users; WIP | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/4c51ba7efb4b988cc45314348871c29589778b6a)
 
 ## List of Potential Tasks
 
