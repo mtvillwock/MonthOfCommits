@@ -54,6 +54,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/13
 - [attempting controller testing for users; WIP | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/4c51ba7efb4b988cc45314348871c29589778b6a)
 
+6/14
+- [controller tests work for invalid attributes on create; WIP | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/0472f1c7b115c675263af5ca3f95e36fc978f0a4)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
