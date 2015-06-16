@@ -56,7 +56,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/14
 - [controller tests work for invalid attributes on create; WIP | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/0472f1c7b115c675263af5ca3f95e36fc978f0a4)
-- 
+
 6/15
 - [Merge pull request #6 from mtvillwock/sidekiq_redis_setup | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/edf2bbd0100fb31ad0af81d619e70372f77fc7c1)
 
