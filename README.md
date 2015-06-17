@@ -60,6 +60,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/15
 - [Merge pull request #6 from mtvillwock/sidekiq_redis_setup | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/edf2bbd0100fb31ad0af81d619e70372f77fc7c1)
 
+6/16
+- [initiate rspec testing for trips controller | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/0193173a044a29af6f634caa39d39f435d9b9453)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
