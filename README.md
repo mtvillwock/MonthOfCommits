@@ -66,6 +66,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/17
 - [Merge pull request #7 from mtvillwock/hydra_flights | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/517c7b561e0cb5b7a1785ddcee67d2c1bfa947f1)
 
+6/20
+- [extract ajax functions to individual files, create trip api using IIFE | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/211f4bcc136ef407cc9e591b0a5d56bbc7ce3505)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
@@ -78,6 +81,8 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - personal site fixed nav bar and JS effects
 - ~~personal site order blog articles by created at scope~~
 - Maps with Friends omniauth / OAuth user creation
-- Planet Hopper flight API calls
+- Planet Hopper flight API calls (pending)
+- Planet Hopper parse flight API data
+- Planet Hopper display possible flights
 - JHO front-end rewrite in Backbone
 - Hummingbird Google OAuth w/ omniauth
