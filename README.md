@@ -69,6 +69,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/20
 - [extract ajax functions to individual files, create trip api using IIFE | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/211f4bcc136ef407cc9e591b0a5d56bbc7ce3505)
 
+6/22
+- [revise flight migrations, parse data into flight info partial | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/5cc76d89de0b5497921e65dfb7becaa7b0c7d3d3)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
