@@ -71,7 +71,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 
 6/22
 - [revise flight migrations, parse data into flight info partial | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/5cc76d89de0b5497921e65dfb7becaa7b0c7d3d3)
-- 
+
 6/23
 - [WIP; rspec testing model associations | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/423f28dce189cb1c9eca6697bf2cadaba3e8505b)
 
