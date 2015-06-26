@@ -78,6 +78,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/24
 - [rspec associations connect flights and destinations/origins through routes | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/4251f1767606365b759a6a2fdd98ae51200e36a2)
 
+6/25
+- [Merge pull request #12 from mtvillwock/active_job_install  | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/086afdfa9b48d7216a89a8f985797fe5b3d5ed46)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
