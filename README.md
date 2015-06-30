@@ -84,6 +84,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/29
 - [Merge pull request #13 from mtvillwock/city_country_models | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/e6eb335f4451129dd74a3815d3d5c5e136f10cc5)
 
+6/30
+- [add timestamps to articles and comment views | Personal Site](https://github.com/mtvillwock/rails-blog/commit/ec557fcc3828289918c65536ea2cf271f87c4de6)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
