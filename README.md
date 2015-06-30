@@ -81,6 +81,9 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 6/25
 - [Merge pull request #12 from mtvillwock/active_job_install  | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/086afdfa9b48d7216a89a8f985797fe5b3d5ed46)
 
+6/29
+- [Merge pull request #13 from mtvillwock/city_country_models | Planet Hopper](https://github.com/mtvillwock/planet-hopper/commit/e6eb335f4451129dd74a3815d3d5c5e136f10cc5)
+
 ## List of Potential Tasks
 
 - algorithm practice problems ([HackerRank](https://www.hackerrank.com/challenges), [LeetCode](https://leetcode.com/problemset/algorithms/), [Whiteboard Wednesdays](https://github.com/adowns01/Intro-to-Whiteboarding-DBC), Cracking the Coding Interview, or [Interview Cake](https://www.interviewcake.com/))
@@ -94,7 +97,7 @@ Credit for idea to: [Cari Westbrook](https://github.com/cariwest/MonthOfCommits)
 - ~~personal site order blog articles by created at scope~~
 - Maps with Friends omniauth / OAuth user creation
 - Planet Hopper flight API calls (pending)
-- Planet Hopper parse flight API data
+- Planet Hopper parse flight API data (in progress)
 - Planet Hopper display possible flights
 - JHO front-end rewrite in Backbone
 - Hummingbird Google OAuth w/ omniauth
